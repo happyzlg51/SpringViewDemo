@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sort_second_tv_color">#5b5b5b</color>
+    <color name="title_translucence">#25000000</color>
+    <color name="foot_text_press">#198ced</color>
+    <color name="indicator_1">#55B3C2</color>
+    <color name="indicator_2">#64A4A4</color>
+    <color name="indicator_3">#66D7B9</color>
+    <color name="indicator_4">#FDBC7D</color>
+
+</resources>
